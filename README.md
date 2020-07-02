@@ -2,7 +2,6 @@
 IHijack is A Spear Phishing Campaign For Delivering Android Trojan To Celebrity Or Influencers
 
 
-# HumenError
 ## Author: github.com/samadbloch
 ## IG: instagram.com/samad_bl0ch
 
